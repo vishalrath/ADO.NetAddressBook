@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc3ADO.Net_EditContact_AddressBook", "Uc3ADO.Net_EditContact_AddressBook\Uc3ADO.Net_EditContact_AddressBook.csproj", "{8549079F-1657-4FC5-B381-D8BF7C1005EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8549079F-1657-4FC5-B381-D8BF7C1005EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8549079F-1657-4FC5-B381-D8BF7C1005EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8549079F-1657-4FC5-B381-D8BF7C1005EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8549079F-1657-4FC5-B381-D8BF7C1005EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847F53CD-B9A2-4636-8275-CED6125F7AA6}
+	EndGlobalSection
+EndGlobal
