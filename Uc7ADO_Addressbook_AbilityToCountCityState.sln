@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc7ADO_Addressbook_AbilityToCountCityState", "Uc7ADO_Addressbook_AbilityToCountCityState\Uc7ADO_Addressbook_AbilityToCountCityState.csproj", "{8F49798F-C405-4B81-9E1F-CE11CD4E8693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F49798F-C405-4B81-9E1F-CE11CD4E8693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F49798F-C405-4B81-9E1F-CE11CD4E8693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F49798F-C405-4B81-9E1F-CE11CD4E8693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F49798F-C405-4B81-9E1F-CE11CD4E8693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69ACA3C-0B6D-4C80-A986-3F18A4F6FEA9}
+	EndGlobalSection
+EndGlobal
